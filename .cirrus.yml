@@ -2,7 +2,7 @@ task:
   name: "sd cpu"
   timeout_in: 90m  
   container:
-      image: mrkhan007/aosp:latest
+      image: ubuntu:latest
       cpu: 8
       memory: 32G
         
